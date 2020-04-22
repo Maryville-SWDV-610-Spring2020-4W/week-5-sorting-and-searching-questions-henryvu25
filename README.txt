@@ -1,0 +1,1 @@
+Hello World, this is an assignment for week 5 of the data structures course.
